@@ -1,5 +1,7 @@
 
-### PRUEBA TÉCNICA 3 REALIZADA POR ANA PILAR DUEÑAS AGUDO
+### PRUEBA TÉCNICA 3 
+
+Prueba técnica de python pandas realizada por Ana Pilar Dueñas Agudo en el Bootcamp de Análisis de Datos de Adalab.
 
 ### OBSERVACIONES GENERALES DE LA REALIZACIÓN DE LA PRUEBA TÉCNICA
 
