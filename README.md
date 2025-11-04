@@ -3,7 +3,7 @@
 
 ## Análisis Exploratorio de Datos. Visualización con Matplotlib y Seaborn. Estadística Descriptiva e Inferencial
 
-Prueba técnica  realizada por **Ana Pilar Dueñas Agudo** en el **Bootcamp de Análisis de Datos de Adalab (Octubre 2025)**.
+Prueba técnica  realizada por **Ana Dueñas** en el **Bootcamp de Análisis de Datos de Adalab (Octubre 2025)**.
 
 ---
 
